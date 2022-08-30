@@ -35,9 +35,9 @@ Then to run the script you will need to
 #### 1. Clone the repo and change into its directory.
 
 ```
-git clone
+git clone git@github.com:bcgov/acs-user-automation-script.git
 
-cd /
+cd acs-user-automation-script
 ```
 
 #### 2. Run the script
